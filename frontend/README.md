@@ -1,16 +1,59 @@
-# React + Vite
+# 💰 Expense Tracker – React Full Stack Project (CIE-2)
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## 📌 Project Title
+Expense Tracker Web Application using React.js and Node.js
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🎯 Objective
+The objective of this project is to build a full-stack Expense Tracker application that helps users manage their income and expenses efficiently. The project demonstrates core React concepts along with backend integration and CRUD operations.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the Oxlint configuration
+### Frontend:
+- React.js (Vite)
+- React Router DOM
+- JavaScript (ES6)
+- HTML5 & CSS3
+- LocalStorage (for data persistence)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### Backend:
+- Node.js
+- Express.js
+- Nodemon
+
+---
+
+## 🚀 Features
+
+- Add Income and Expense transactions
+- Delete transactions
+- Real-time dashboard updates
+- Total income calculation
+- Total expense calculation
+- Balance calculation
+- Savings percentage
+- Date and time tracking for each transaction
+- Category-based transaction system
+- Sidebar navigation with routing
+- Fully responsive UI
+
+---
+
+## 🧠 React Concepts Used
+
+- Functional Components
+- Props (Parent → Child communication)
+- useState Hook
+- useEffect Hook
+- Event Handling (click, submit, change)
+- Form Handling
+- Client-side Routing (React Router)
+- Component-based architecture
+- State management using hooks
+
+---
+
+## 🏗️ Project Structure
